@@ -17,7 +17,7 @@
 <li>M3 X 20mm CHHD Bolt and Nut Set -10 Piece pack × 1</li>	
 <li>230m P/N B-30-1000 Insulated PVC Coated 30AWG Wire Wrapping Wire-RED × 1</li>	
 <li>2mm Acrylic Sheet × 1</li>
-
-
-https://www.hackster.io/coderscafe/emo-your-personal-companion-robot-dc8afe
+<br> 
+<br> 
+https://www.hackster.io/coderscafe/emo-your-personal-companion-robot-dc8afe<br> 
 https://www.instructables.com/Emo-DIY-Companion-Robot/
